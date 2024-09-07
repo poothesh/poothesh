@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @poothesh
 - 👀 I’m interested in FullStack
 - 🌱 I’m currently learning Java
-- 📫 How to reach me pootheshmm@gmail.com
+- 📫 Reach me pootheshmm@gmail.com
 
   
 <!---
