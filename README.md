@@ -1,4 +1,5 @@
-### Myself
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+### Myself 
 - 👋 Hi, I’m @poothesh😅
 - 👀 I’m interested in FullStack
 - 🌱 I’m currently learning Java
@@ -16,6 +17,8 @@
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50"/>
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="SQL" width="50"/>
+
+
 
 
 
