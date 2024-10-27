@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Java
 - 🪐 Enhancing my skills into full stack 
 - 📫 Reach me pootheshmm@gmail.com
+- --
 
 ### Language and Tools :
 
@@ -17,6 +18,8 @@
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50"/>
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="SQL" width="50"/>
+
+
 
 
 
