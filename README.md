@@ -1,7 +1,7 @@
 ### Myself 
 - 👋 Hi, I’m @poothesh😅
-- 👀 I’m interested in FullStack
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Mern Stack
+- 🌱 I’m currently learning Mern
 - 🪐 Enhancing my skills into full stack 
 - 📫 Reach me pootheshmm@gmail.com
 - Check My https://poothesh.github.io/portfolio/
