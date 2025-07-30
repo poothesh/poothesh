@@ -24,7 +24,6 @@
 
 
 
-![](https://leetcard.jacoblin.cool/poothesh_m?ext=heatmap)
 
 
 
